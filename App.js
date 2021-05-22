@@ -11,7 +11,7 @@ export default function App() {
   const [latitude, setLatitude] = useState(0);
   /*
   const accountSid = "ACdd2c7a20c9ed95f9b4ebbcfed5cbe167";
-  const authToken = "9b71fff12f98dd39d23eabfd065bef90";
+  const authToken = "";
   const client = require('twilio')(accountSid, authToken);
 
   client.messages.create({
